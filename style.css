@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    background-color: black;
+    color: azure;
+    margin: 20px;
+    height: 50px;
+}
+
+h2,
+h3 {
+    width: auto;
+    height: 40px;
+    color: azure;
+    background-color: black;
+    text-align: center;
+    padding: auto 30px;
+}
+
+input {
+    margin: 5px;
+}
+
+button {
+    width: auto;
+    height: 50px;
+    color: azure;
+    background-color: black;
+    text-align: center;
+    padding: 0px 30px;
+    margin: 10px
+}
+
+li {
+    background-color: aqua;
+    margin: 10px;
+    padding: 5px;
+    font-size: medium;
+    font-weight: bold;
+    margin-right: 50px;
+}
+
+form {
+    text-align: center;
+    background-color: aqua;
+}
+
+input {
+    margin-right: 20px;
+}
